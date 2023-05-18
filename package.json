@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/callumjfortune/grantsbutchers/issues"
   },
-  "homepage": "https://github.com/callumjfortune/grantsbutchers#readme"
+  "homepage": "https://github.com/callumjfortune/grantsbutchers#readme",
+  "dependencies": {
+    "swiper": "^9.3.2"
+  }
 }
